@@ -1,16 +1,12 @@
-### Hi there 👋
+# About me
 
-<!--
-**tiiqual/tiiqual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ *Nah* ✨
+- 🔭 I’m currently working on figuring out *GitHub*.
+- 🌱 I’m currently learning how to code.
+- 👯 I’m looking to collaborate on nothing.
+- 🤔 I’m looking for help with nada.
+- 💬 Ask me about nil.
+- 📫 How to reach me: space
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I like music

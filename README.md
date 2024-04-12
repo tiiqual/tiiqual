@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on nothing.
 - 🤔 I’m looking for help with nada.
 - 💬 Ask me about nil.
-- 📫 How to reach me: space
+- 📫 How to reach me: outer space
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like music
